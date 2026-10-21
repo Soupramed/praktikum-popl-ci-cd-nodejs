@@ -53,4 +53,5 @@ docker:
       with:
         context: .
         push: true
-        tags: Mehmed11/praktikum-popl-nodejs:latest
+        tags: mehmed11/hanif_prakpopl_cicd_232
+
